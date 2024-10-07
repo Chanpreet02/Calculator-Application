@@ -12,8 +12,8 @@ Getting Started
 To get started with this project:
 
 Clone the repository:
-
-git clone 
+(To clone the repository you need to execute the command given below in your GitBash)
+command: git clone https://github.com/Chanpreet02/Calculator-Application.git
 
 Open the project in Android Studio: Import the project folder in Android Studio.
 Build the project: Let Android Studio download dependencies and build the project for the first run.
