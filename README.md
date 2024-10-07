@@ -22,14 +22,17 @@ Run the app: You can run it on an Android emulator or a physical device.
 Prerequisites
 Android Studio: Version 4.0 or higher is recommended.
 Kotlin: Make sure to have a compatible Kotlin version, which is managed by Android Studio.
-Installation
-Clone the repository to your local machine.
-Open Android Studio and load the project.
-Connect an Android device or use an emulator.
-Build and run the project.
-Technologies Used
-Kotlin: As the main programming language.
-Android Studio: As the Integrated Development Environment (IDE).
-XML: For defining UI elements.
-Contributing
-Contributions are welcome! Please feel free to submit a pull request or open an issue for further improvements.
+
+Installation:
+    1. Clone the repository to your local machine.
+    2. Open Android Studio and load the project.
+    3. Connect an Android device or use an emulator.
+    4. Build and run the project.
+Technologies Used: 
+
+  a. Kotlin: As the main programming language.
+  b. Android Studio: As the Integrated Development Environment (IDE).
+  c. XML: For defining UI elements.
+
+Contributing:
+  Contributions are welcome! Please feel free to submit a pull request or open an issue for further improvements.
